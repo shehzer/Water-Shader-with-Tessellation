@@ -16,7 +16,7 @@ In this project, the goal is to create a water shader that utilizes tessellation
 You can choose one of the following camera paradigms:
 
 1. Third-Person Camera: Allows movement within the world across the top of the water.
-2. Globe Movement: Similar to assignment 5, this paradigm lets you view the water from a globe-like perspective.
+2. Globe Movement: This paradigm lets you view the water from a globe-like perspective.
 
 ## Vertex Specification
 
